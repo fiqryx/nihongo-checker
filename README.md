@@ -16,6 +16,8 @@ Built with Next.js (App Router), TypeScript and Tailwind CSS v4.
 - **Built-in knowledge base**: curated grammar, vocabulary and keigo notes are injected into the prompt only when relevant to your text, which keeps prompts small and answers more accurate.
 - **Provider-agnostic**: works with any endpoint that supports `/chat/completions`.
 
+![Screenshot](./screenshot.png)
+
 ## Requirements
 
 - Node.js 18.18 or newer
@@ -25,7 +27,7 @@ Built with Next.js (App Router), TypeScript and Tailwind CSS v4.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/nihongo-checker.git
+git clone https://github.com/fiqryx/nihongo-checker.git
 cd nihongo-checker
 npm install
 ```
