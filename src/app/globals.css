@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  font-family: ui-sans-serif, system-ui, "Hiragino Sans", "Noto Sans JP", "Yu Gothic", Meiryo, sans-serif;
+}
